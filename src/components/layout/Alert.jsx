@@ -26,7 +26,7 @@ function Alert() {
           <strong>{alert?.msg}</strong>
         </div>
       </div>
-    </div>
+    </div> 
   )
 }
 
